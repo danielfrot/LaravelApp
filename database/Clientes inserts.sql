@@ -1,0 +1,6 @@
+INSERT INTO `clientes` (`id`, `nome`, `rg`, `cpf`, `profissao`, `estado_civil`, `longradouro`, `numero`, `bairro`, `cidade`, `uf`, `nacionalidade`, `telefone`, `fk_users`, `created_at`, `updated_at`) VALUES
+    (NULL, 'Daniel de Brito Frota', '946889 SSP/RO', '943.603.992-04', 'Estudante', 'Casado', 'Rua Santa Luzia', '4650', 'Nova Esperança', 'Porto Velho', 'RO', 'Brasileiro', '69 98105-3072', 1, NULL, NULL),
+    (NULL, 'Tatiane Nogueira de Souza Frota', '484565 SSP/RO', '870.603.992-04', 'Engenheira Civil', 'Casada', 'Rua Santa Luzia', '4650', 'Nova Esperança', 'Porto Velho', 'RO', 'Brasileira', '69 99937-3083', 2, NULL, NULL),
+    (NULL, 'Tatiele Nogueira de Souza', '456865 SSP/RO', '999.603.992-45', 'Engenheira Civil', 'Solteira', 'Av. Campo Sales', '1669', 'Conceição', 'Porto Velho', 'RO', 'Brasileira', '69 99937-4444', 3, NULL, NULL),
+    (NULL, 'Tayla Nogueira de Souza', '516321 SSP/RO', '555.603.992-04', 'Estudante', 'Solteira', 'Av. Campo Sales', '1669', 'Conceição', 'Porto Velho', 'RO', 'Brasileira', '69 99937-3083', 4, NULL, NULL);
+    
